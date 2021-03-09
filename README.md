@@ -1,1 +1,2 @@
-TinDog Starting Files
+TinDog Site
+Made for Udemy Web Dev Course 
